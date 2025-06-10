@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ChatApp.git
+git clone https://github.com/jay7033/ChatApp.java.git
 cd ChatApp
 Compile the Java file:
 
